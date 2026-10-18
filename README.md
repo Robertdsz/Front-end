@@ -1,5 +1,3 @@
-# Front-end
-🚀 Projetos e estudos em Front-End | React, TypeScript, Tailwind CSS &amp; APIs REST.
 # 🚀 Front-End Project
 
 Este repositório contém uma aplicação Front-End moderna construída para praticar e demonstrar conceitos essenciais do ecossistema JavaScript/React, focando em performance, boas práticas e interface responsiva.
